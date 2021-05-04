@@ -4,12 +4,12 @@ Bu repoda Java'ya yeni başlayanlar için başlangıç aşamasında yapılabilec
 ## Değişkenler, Koşul Durumlar
 
 **[Merhaba Dünya:](https://github.com/x0Deniz/java-basic-projects/blob/main/MerhabaDunya.java)** Ekrana "Merhaba Dünya" yazdıran java kodunu yazınız.  
-**Değişken Değeri:** Intager tipinde bir değişken oluşturun ve ekrana değişkenin değerini yazan java kodunu yazınız.  
-**Ekrandan Sayı Okuma:** Ekrandan bir sayı okuyup, bu sayıyı tekrar ekrana yazdıran kodu yazınız.  
-**Dört İşlem:** Kullanıcının girdiği iki sayıya dört işlem uygulayarak (toplama, çıkarma, çarpma, bölme) sonuçlarını ekrana yazdıran java kodunu yazınız.  
-**Harf Notu Hesaplama:** Kullanıcının 0-100 aralığında girmiş olduğu nota göre harf notunu bulunuz (A: 100-90, B: 90 - 80, C: 80 - 70, F: 70 - 0 olarak kabul edebilirsiniz)  
-**İki Sayıyı Karşılaştır:** Kullanıcının girmiş olduğu iki sayıyı büyüklük, küçüklük ve eşitlik yönlerinden inceleyen java kodunu yazınız.  
-**Üç Sayıyı Karşılaştır:** Kullanıcının girmiş olduğu üç sayıdan en büyük ve en küçük olanlarını bulup ekrana yazdıran java kodunu yazınız.  
+**[Değişken Değeri:](https://github.com/x0Deniz/java-basic-projects/blob/main/DegiskenDegeri.java)** Intager tipinde bir değişken oluşturun ve ekrana değişkenin değerini yazan java kodunu yazınız.  
+**[Ekrandan Sayı Okuma:](https://github.com/x0Deniz/java-basic-projects/blob/main/EkrandanSayiOku.java)** Ekrandan bir sayı okuyup, bu sayıyı tekrar ekrana yazdıran kodu yazınız.  
+**[Dört İşlem:](https://github.com/x0Deniz/java-basic-projects/blob/main/DortIslem.java)** Kullanıcının girdiği iki sayıya dört işlem uygulayarak (toplama, çıkarma, çarpma, bölme) sonuçlarını ekrana yazdıran java kodunu yazınız.  
+**[Harf Notu Hesaplama:](https://github.com/x0Deniz/java-basic-projects/blob/main/HarfNotu.java)** Kullanıcının 0-100 aralığında girmiş olduğu nota göre harf notunu bulunuz (A: 100-90, B: 90 - 80, C: 80 - 70, F: 70 - 0 olarak kabul edebilirsiniz)  
+**[İki Sayıyı Karşılaştır:](https://github.com/x0Deniz/java-basic-projects/blob/main/IkiSayiKarsilastir.java)** Kullanıcının girmiş olduğu iki sayıyı büyüklük, küçüklük ve eşitlik yönlerinden inceleyen java kodunu yazınız.  
+**[Üç Sayıyı Karşılaştır:](https://github.com/x0Deniz/java-basic-projects/blob/main/UcSayiEnBuyuk.java)** Kullanıcının girmiş olduğu üç sayıdan en büyük ve en küçük olanlarını bulup ekrana yazdıran java kodunu yazınız.  
 ## Döngüler ve Diziler
 **Basit Döngü:** 1'den 10'a kadar olan sayıları ekrana yazdıran java kodunu yazınız.  
 **Döngü Örneği:** 100'den 1'e kadar olan 13'e bölünebilen sayıları ekrana yazdıran java kodunu yazınız.  
