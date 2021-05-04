@@ -3,7 +3,7 @@ Bu repoda Java'ya yeni başlayanlar için başlangıç aşamasında yapılabilec
 
 ## Değişkenler, Koşul Durumlar
 
-**Merhaba Dünya:** Ekrana "Merhaba Dünya" yazdıran java kodunu yazınız.  
+**[Merhaba Dünya:](https://github.com/x0Deniz/java-basic-projects/blob/main/MerhabaDunya.java)** Ekrana "Merhaba Dünya" yazdıran java kodunu yazınız.  
 **Değişken Değeri:** Intager tipinde bir değişken oluşturun ve ekrana değişkenin değerini yazan java kodunu yazınız.  
 **Ekrandan Sayı Okuma:** Ekrandan bir sayı okuyup, bu sayıyı tekrar ekrana yazdıran kodu yazınız.  
 **Dört İşlem:** Kullanıcının girdiği iki sayıya dört işlem uygulayarak (toplama, çıkarma, çarpma, bölme) sonuçlarını ekrana yazdıran java kodunu yazınız.  
