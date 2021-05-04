@@ -22,9 +22,9 @@ Bu repoda Java'ya yeni başlayanlar için başlangıç aşamasında yapılabilec
 **[Salyangoz Matris:](https://github.com/x0Deniz/java-basic-projects/blob/main/Salyangoz.java)** Salyangoz şeklinde ardaşık sayıları ekrana yazdıran java kodunu yazınız.  
 **[Tarih Formatı:](https://github.com/x0Deniz/java-basic-projects/blob/main/TarihFormati.java)** Kullanıcıdan Gün/Ay/Yıl olarak alınan tarihi Yıl/Ay/Gün olarak geri yazdıran java kodunu yazınız.  
 ## Methodlar
-**Faktöriyel Bulma:** Girilen sayının faktöriyelini geri döndüren methodu yazınız  
-**Sayı Bulma:** Verilen bir sayı dizisinin içerisinde istenen değerin olup olmadığını sorgulayan methodu yazınız.  
-**Faktöriyel Bulma (Recursive):** Girilen sayının faktöriyelini geri döndüren recursive methodu yazınız.  
-**Arkadaş Sayı:** Bölenleri toplamı birbirlerinin değerine eşit olan iki sayıya arkadaş sayı denir. Klavyeden girilen iki sayının arkadaş sayı olup olmadığını tespit eden methodu yazınız.  
-**Kombinasyon Hesaplama:** Verilen iki sayının kombinasyonunu alıp geri döndüren methodu yazınız. C(n,r) = n! / (r!(n-r)!)  
-**Mükemmel Sayı Bulma:** Kendisi hariç pozitif bölenlerinin toplamı kendisine eşit olan sayılara mükemmel sayı denir. Kendisine parametre olarak verilen sayının mükemmel olup olmadığını tespit eden methodu yazınız.  
+**[Faktöriyel Bulma:](https://github.com/x0Deniz/java-basic-projects/blob/main/Faktoriyel.java)** Girilen sayının faktöriyelini geri döndüren methodu yazınız  
+**[Sayı Bulma:](https://github.com/x0Deniz/java-basic-projects/blob/main/SayiBulma.java)** Verilen bir sayı dizisinin içerisinde istenen değerin olup olmadığını sorgulayan methodu yazınız.  
+**[Faktöriyel Bulma (Recursive):](https://github.com/x0Deniz/java-basic-projects/blob/main/FaktoriyelRecursive.java)** Girilen sayının faktöriyelini geri döndüren recursive methodu yazınız.  
+**[Arkadaş Sayı:](https://github.com/x0Deniz/java-basic-projects/blob/main/ArkadasSayi.java)** Bölenleri toplamı birbirlerinin değerine eşit olan iki sayıya arkadaş sayı denir. Klavyeden girilen iki sayının arkadaş sayı olup olmadığını tespit eden methodu yazınız.  
+**[Kombinasyon Hesaplama:](https://github.com/x0Deniz/java-basic-projects/blob/main/Kombinasyon.java)** Verilen iki sayının kombinasyonunu alıp geri döndüren methodu yazınız. C(n,r) = n! / (r!(n-r)!)  
+**[Mükemmel Sayı Bulma:](https://github.com/x0Deniz/java-basic-projects/blob/main/MukemmelSayi.java)** Kendisi hariç pozitif bölenlerinin toplamı kendisine eşit olan sayılara mükemmel sayı denir. Kendisine parametre olarak verilen sayının mükemmel olup olmadığını tespit eden methodu yazınız.  
