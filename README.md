@@ -21,6 +21,7 @@ Bu repoda Java'ya yeni başlayanlar için başlangıç aşamasında yapılabilec
 **[Ters Köşegeni 1 olan Matris:](https://github.com/x0Deniz/java-basic-projects/blob/main/TersKosegen.java)** Ters köşegeni 1 olan matrisi yazdırınız.  
 **[Salyangoz Matris:](https://github.com/x0Deniz/java-basic-projects/blob/main/Salyangoz.java)** Salyangoz şeklinde ardaşık sayıları ekrana yazdıran java kodunu yazınız.  
 **[Tarih Formatı:](https://github.com/x0Deniz/java-basic-projects/blob/main/TarihFormati.java)** Kullanıcıdan Gün/Ay/Yıl olarak alınan tarihi Yıl/Ay/Gün olarak geri yazdıran java kodunu yazınız.  
+**[Basamak Sayısı:](https://github.com/bugresearch/java-basic-projects/blob/main/BasamakSayisi.java)** Kullanıcının girmiş olduğu sayının basamak sayısını ekrana yazdıran java kodunu yazınız.
 ## Methodlar
 **[Faktöriyel Bulma:](https://github.com/x0Deniz/java-basic-projects/blob/main/Faktoriyel.java)** Girilen sayının faktöriyelini geri döndüren methodu yazınız  
 **[Sayı Bulma:](https://github.com/x0Deniz/java-basic-projects/blob/main/SayiBulma.java)** Verilen bir sayı dizisinin içerisinde istenen değerin olup olmadığını sorgulayan methodu yazınız.  
